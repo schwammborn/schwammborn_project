@@ -1,7 +1,8 @@
 # Alicias Project
 my project
-30.06.2023
+2023-06-30
 __Freitag__
 *Darmstadt*
-Eine kleine Änderung um 10:07 Uhr. 
+Eine kleine Änderung um 10:07 Uhr.
+ 
 
