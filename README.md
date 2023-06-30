@@ -1,6 +1,6 @@
 # Alicias Project
 
-my project
+my really really *AWESOME LC Project*
 
 2023-06-30
 
